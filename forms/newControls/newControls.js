@@ -1,4 +1,4 @@
-
+/*
 radiobtn.onchange=function(){
   lblRadio.value = "yay!"
 }
@@ -12,3 +12,4 @@ drpdwn.onclick=function(){
 imgCU.onmousedown=function(){
   lblImg.value = "Ok!"
 }
+*/
